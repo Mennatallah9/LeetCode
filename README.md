@@ -1,5 +1,5 @@
 
-# My LeetCode solutions
+# LeetCode problems solutions
 
 |  No.  |      Title     |   Solutions   |  Difficulty  |  Language  |                
 |-----|----------------|---------------|--------------|-------------|
